@@ -1,0 +1,21 @@
+html{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    background-color: lightblue;
+    margin: -10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.label{
+    margin: 15px;
+    width: fit-content;
+    background-color: lightcoral;
+    padding: 15px;
+    text-align: center;
+    font-size: 30px;
+border-radius: 4px;
+}
